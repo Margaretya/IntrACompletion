@@ -19,5 +19,20 @@ ISSN = {2073-4409},
 DOI = {10.3390/cells11244107}
 }
 ```
+## Dataset
+IntrACompletion dataset organized as follows:
+```
+INtrACompletion data
+    |-- train
+        |-- partial
+        |-- complete
+    |-- test
+        |-- partial
+        |-- complete
+    |-- val
+        |-- partial
+        |-- complete
+    |-- IntrACompletion.json
+```
 ## Acknowledgement
 We follow [PCN](https://github.com/wentaoyuan/pcn) generatre IntrACompletion dataset from [IntrA](https://github.com/intra3d2019/IntrA).  
