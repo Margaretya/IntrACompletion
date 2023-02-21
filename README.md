@@ -1,7 +1,7 @@
 # Multi-Scope Feature Extraction for Intracranial Aneurysm 3D Point Cloud Completion
 This is the IntrACompletion dataset for "Multi-Scope Feature Extraction for Intracranial Aneurysm 3D Point Cloud Completion". It can be download from [Google Drive](URL "https://drive.google.com/file/d/17vk5jrtvBw8xaEKag5-CJo5D4w6Kmun-/view?usp=share_link").  
 
-![examlple](URL "https://github.com/Margaretya/IntrACompletion/blob/main/angles.pdf")
+![examlple](https://github.com/Margaretya/IntrACompletion/blob/main/Dataset/angles.png)
 ## BibTex
 Please cite our work as follows if you are using our IntrACompletion dataset.
 ```
